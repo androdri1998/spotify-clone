@@ -6,6 +6,9 @@ const styles = {
   },
   Container: {
     padding: 10
+  },
+  ScrollView: {
+    marginTop: 10
   }
 }
 
